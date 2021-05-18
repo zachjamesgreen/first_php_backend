@@ -1,0 +1,6 @@
+{
+	"require": {
+		"phansys/getid3": "2.1.*@dev",
+		"doctrine/orm": "2.5.*@dev"
+	}
+}
